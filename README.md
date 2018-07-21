@@ -1,0 +1,2 @@
+# mendaxwp
+MendaxWp, CypherPunklar için geliştirilmiş ve tüm penetrasyon testlerini bir araya getirmiş yazılımdır. MendaxWp, farklı görevler yerine getirmek için farklı araçlar başlatmak yerine, Penetrasyon Testleri ve Güvenlik Araştırmacılarının işlerini kolaylaştırmak için özel olarak programlanmıştır. MendaxWp, hedef websitenin bilgileri toplayan ve içinde ki açıkları tarayan birçok özellik sunar.
