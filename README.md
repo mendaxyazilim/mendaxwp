@@ -3,7 +3,7 @@ MENDAX - Wordpress Pentest Aracı
 
 Yazar: [EGEMEN KAYA] (http://mendaxyazilim.com)
 
-Feragatname: Bu araç kullanılarak yapılan herhangi bir hasardan sorumlu değilim. Bu araç sadece eğitim amaçlı ve penetrasyon testi için kullanılmalıdır.
+Feragatname: Bu araç kullanılarak yapılan herhangi bir hasardan yazar ve Mendax Yazılım sorumlu değildir. Bu araç sadece eğitim amaçlı ve penetrasyon testleri için kullanılmalıdır.
 
 ###Uygunluk:
 * Python 2.7 kullanan herhangi bir platform
