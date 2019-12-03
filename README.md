@@ -5,17 +5,17 @@ Yazar: [EGEMEN KAYA] (http://mendaxyazilim.com)
 
 Feragatname: Bu araç kullanılarak yapılan herhangi bir hasardan yazar ve Mendax Yazılım sorumlu değildir. Bu araç sadece eğitim amaçlı ve penetrasyon testleri için kullanılmalıdır.
 
-###Uygunluk:
+# Uygunluk:
 * Python 2.7 kullanan herhangi bir platform
 
-###Gereksinimler:
+# Gereksinimler:
 * Python 2.7
 * Modules(included): Colorama, BeautifulSoup
 
-###Açıklama:
+# Açıklama:
 MendaxWp, CypherPunklar için geliştirilmiş ve tüm penetrasyon testlerini bir araya getirmiş yazılımdır. MendaxWp, farklı görevler yerine getirmek için farklı araçlar başlatmak yerine, Penetrasyon Testleri ve Güvenlik Araştırmacılarının işlerini kolaylaştırmak için özel olarak programlanmıştır. MendaxWp, hedef websitenin bilgileri toplayan ve içinde ki açıkları tarayan birçok özellik sunar.
 
-###İçindekiler:
+# İçindekiler:
 * Sub-domain Tarayıcı
 * Port Tarayıcı
 * Wordpress Tarayıcı
@@ -28,8 +28,7 @@ MendaxWp, CypherPunklar için geliştirilmiş ve tüm penetrasyon testlerini bir
 * SQL Injection Açık Tarayıcı
 * User-Friendly UI
 
-###Kullanım:
+# Kullanım:
 python mendaxwp.py
 
-# Special Thanks To:
-* CypherPunks 
+
