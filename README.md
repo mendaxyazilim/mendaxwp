@@ -1,7 +1,7 @@
 # MENDAXWP
 MENDAX - Wordpress Pentest Aracı
 
-Yazar: [EGEMEN KAYA] (http://cypherpunks.club)
+Yazar: [EGEMEN KAYA] (http://mendaxyazilim.com)
 
 Feragatname: Bu araç kullanılarak yapılan herhangi bir hasardan sorumlu değilim. Bu araç sadece eğitim amaçlı ve penetrasyon testi için kullanılmalıdır.
 
